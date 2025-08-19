@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Fruits and Vegetables ripeness identification**
 
-- 🌱 I’m currently learning **SQL,DSA**
+- 🌱 I’m currently learning **SQL,DSA,Generative Ai**
 
-- 💬 Ask me about **Machine Learning,Java**
+- 💬 Ask me about **Machine Learning,Java,MERN**
 
 - 📫 How to reach me **pradeepas19102004@gmail.com**
 
